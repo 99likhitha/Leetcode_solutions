@@ -13,21 +13,19 @@ public:
                 {
                     curr="";
                     i=j;
-                    curr+=num[j];
-                    j++;
+                    curr+=num[j];   
                 }
                 else
                 {
-                    curr+=num[j];
-                    j++;
+                    curr+=num[j];     
                     if(curr.length()==3) ans=max(ans,curr);
                 }
             }
             else
             {
-                curr+=num[j];
-                j++;
+                curr+=num[j];  
             }
+            j++;
         }
 
         return ans;
