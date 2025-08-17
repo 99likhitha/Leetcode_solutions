@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0867-new-21-game) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/99likhitha/Leetcode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Sliding Window
 |  |
 | ------- |
