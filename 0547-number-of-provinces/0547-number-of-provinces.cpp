@@ -10,7 +10,7 @@ public:
     {
        int parent_x=findparent(parent,x);
        int parent_y=findparent(parent,y);
-       if(parent_x !=parent_y) parent[parent_x]=y; 
+       if(parent_x !=parent_y) parent[parent_x]=parent_y; 
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n=isConnected.size();
