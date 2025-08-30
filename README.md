@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/99likhitha/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/99likhitha/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/99likhitha/Leetcode_solutions/tree/master/0733-flood-fill) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/99likhitha/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/99likhitha/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/99likhitha/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/99likhitha/Leetcode_solutions/tree/master/1036-rotting-oranges) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/99likhitha/Leetcode_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/99likhitha/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
