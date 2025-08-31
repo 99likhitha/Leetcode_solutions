@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/99likhitha/Leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/99likhitha/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/99likhitha/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0679-24-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0679-24-game) |
@@ -76,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/99likhitha/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0679-24-game) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/99likhitha/Leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/99likhitha/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/99likhitha/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/99likhitha/Leetcode_solutions/tree/master/0733-flood-fill) |
@@ -139,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/99likhitha/Leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/99likhitha/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
