@@ -1,24 +1,37 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    // Helper to check if a number contains digit '0'
-    bool containsZero(int val) {
-        while (val > 0) {
-            if (val % 10 == 0) return true;
-            val /= 10;
+    bool haszero(int num)
+    {
+        bool result=false;
+        while(num)
+        {
+            int m=num%10;
+            if(m==0) {
+                result=true;
+                break;
+            }
+            num/=10;
         }
-        return false;
-    }
 
-    vector<int> getNoZeroIntegers(int target) {
-        for (int first = 1; first < target; first++) {
-            int second = target - first;
-            if (!containsZero(first) && !containsZero(second)) {
-                return {first, second};
+        return result;
+    }
+    vector<int> getNoZeroIntegers(int n) {
+        vector<int>ans;
+        int left=1,right=n-1;
+        for(int i=left;i<=right;i++)
+        {
+            if(!haszero(left) && !haszero(right) && left+right==n)
+            {
+                ans.push_back(left);
+                ans.push_back(right);
+                break;
+            }
+            else
+            {
+                left++;
+                right--;
             }
         }
-        return {};
+        return ans;
     }
 };
