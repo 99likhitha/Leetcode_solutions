@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0679-24-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/99likhitha/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [1006-vowel-spellchecker](https://github.com/99likhitha/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/99likhitha/Leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/99likhitha/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/99likhitha/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/99likhitha/Leetcode_solutions/tree/master/0127-word-ladder) |
+| [1006-vowel-spellchecker](https://github.com/99likhitha/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/99likhitha/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/99likhitha/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/99likhitha/Leetcode_solutions/tree/master/0127-word-ladder) |
+| [1006-vowel-spellchecker](https://github.com/99likhitha/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/99likhitha/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/99likhitha/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
