@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/99likhitha/Leetcode_solutions/tree/master/0127-word-ladder) |
+| [0165-compare-version-numbers](https://github.com/99likhitha/Leetcode_solutions/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/99likhitha/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/99likhitha/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/99likhitha/Leetcode_solutions/tree/master/3827-implement-router) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/99likhitha/Leetcode_solutions/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
