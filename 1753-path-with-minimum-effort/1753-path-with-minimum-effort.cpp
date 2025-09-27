@@ -11,11 +11,11 @@ public:
 
         while(!pq.empty())
         {
-            auto p=pq.top();
-            pq.pop();
+            auto &p=pq.top();
             int dis=p.first;
             int x=p.second.first;
             int y=p.second.second;
+             pq.pop();
             if(dis>effort[x][y]) continue;
             if(x==n-1 && y==m-1) return dis;
             for(int i=0;i<4;i++)
