@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/99likhitha/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/99likhitha/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/99likhitha/Leetcode_solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/99likhitha/Leetcode_solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/99likhitha/Leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/99likhitha/Leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/99likhitha/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/99likhitha/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/99likhitha/Leetcode_solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/99likhitha/Leetcode_solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/99likhitha/Leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/99likhitha/Leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/99likhitha/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/99likhitha/Leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/99likhitha/Leetcode_solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/99likhitha/Leetcode_solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/99likhitha/Leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/99likhitha/Leetcode_solutions/tree/master/0820-find-eventual-safe-states) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/99likhitha/Leetcode_solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/99likhitha/Leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/99likhitha/Leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/99likhitha/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -317,5 +321,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/99likhitha/Leetcode_solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/99likhitha/Leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
