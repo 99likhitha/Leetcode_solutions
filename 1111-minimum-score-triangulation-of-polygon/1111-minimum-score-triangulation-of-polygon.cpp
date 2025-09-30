@@ -1,22 +1,18 @@
-// simplied verion using 1-loop
 class Solution {
 public:
-    static int minScoreTriangulation(vector<int>& v) {
-        const int n=v.size();
-        if (n==3) return v[0]*v[1]*v[2];
-
-        // dp[i][j]=min weight for convex v[i..j]
-        vector<vector<int>> dp(n-1, vector<int>(n, 0));
-
-        for (int d=2; d<=n-1; d++){
-            for(int i=0; i<n-d; i++){
-                const int j=i+d;
-                int w=INT_MAX, e=v[i]*v[j];
-                for(int k=i+1; k<j; k++)
-                    w=min(w, e*v[k]+dp[i][k]+dp[k][j]);
-                dp[i][j]=w;
-            } 
+    int minScoreTriangulation(vector<int>& v) {
+        int n = v.size();
+        vector<vector<int>> dp(n, vector<int>(n, 0));
+        for (int len = 3; len <= n; ++len) {
+            for (int i = 0; i + len - 1 < n; ++i) {
+                int j = i + len - 1;
+                dp[i][j] = INT_MAX;
+                for (int k = i + 1; k < j; ++k) {
+                    long tri = 1L * v[i] * v[k] * v[j];
+                    dp[i][j] = min(dp[i][j], dp[i][k] + dp[k][j] + (int)tri);
+                }
+            }
         }
-        return dp[0][n-1];
+        return dp[0][n - 1];
     }
 };
