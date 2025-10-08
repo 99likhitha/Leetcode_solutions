@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/99likhitha/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/99likhitha/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/99likhitha/Leetcode_solutions/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/99likhitha/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/99likhitha/Leetcode_solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -176,11 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/99likhitha/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/99likhitha/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Depth-First Search
 |  |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -417,4 +422,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
