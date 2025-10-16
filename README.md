@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/99likhitha/Leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/99likhitha/Leetcode_solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/99likhitha/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/99likhitha/Leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/99likhitha/Leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/99likhitha/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/99likhitha/Leetcode_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/99likhitha/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/99likhitha/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/99likhitha/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/99likhitha/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/99likhitha/Leetcode_solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/99likhitha/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/99likhitha/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/99likhitha/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/99likhitha/Leetcode_solutions/tree/master/3678-design-task-manager) |
