@@ -26,16 +26,17 @@ public:
                 TreeNode*curr=q.front();
                 q.pop();
                 temp.push_back(curr->val);
-                if(curr->right)
-                {
-                    q.push(curr->right);
-                }
                 if(curr->left)
                 {
                     q.push(curr->left);
                 }
+                if(curr->right)
+                {
+                    q.push(curr->right);
+                }
+                
             }
-            reverse(temp.begin(),temp.end());
+            // reverse(temp.begin(),temp.end());
             ans.push_back(temp.back());
         }
 
