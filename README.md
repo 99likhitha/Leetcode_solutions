@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/99likhitha/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/99likhitha/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/99likhitha/Leetcode_solutions/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/99likhitha/Leetcode_solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/99likhitha/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0120-triangle](https://github.com/99likhitha/Leetcode_solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0542-01-matrix) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/99likhitha/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/99likhitha/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/99likhitha/Leetcode_solutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
