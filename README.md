@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/99likhitha/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/99likhitha/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/0162-find-peak-element) |
+| [0239-sliding-window-maximum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/99likhitha/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/99likhitha/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/99likhitha/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0867-new-21-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/99likhitha/Leetcode_solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/99likhitha/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/99likhitha/Leetcode_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/99likhitha/Leetcode_solutions/tree/master/3827-implement-router) |
 ## Game Theory
@@ -612,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/99likhitha/Leetcode_solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
