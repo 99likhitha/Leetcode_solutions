@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/99likhitha/Leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/99likhitha/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/99likhitha/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2023-design-movie-rental-system](https://github.com/99likhitha/Leetcode_solutions/tree/master/2023-design-movie-rental-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/99likhitha/Leetcode_solutions/tree/master/2169-simple-bank-system) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2529-range-product-queries-of-powers](https://github.com/99likhitha/Leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/99likhitha/Leetcode_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/99likhitha/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/99likhitha/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/99likhitha/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/99likhitha/Leetcode_solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/99likhitha/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0867-new-21-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/99likhitha/Leetcode_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Probability and Statistics
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/99likhitha/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/99likhitha/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/99likhitha/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -508,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/99likhitha/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/99likhitha/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/99likhitha/Leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/99likhitha/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/99likhitha/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
