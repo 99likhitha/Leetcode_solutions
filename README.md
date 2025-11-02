@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/99likhitha/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/99likhitha/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/99likhitha/Leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/99likhitha/Leetcode_solutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/99likhitha/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/99likhitha/Leetcode_solutions/tree/master/0130-surrounded-regions) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/99likhitha/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/99likhitha/Leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/99likhitha/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/99likhitha/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/99likhitha/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/99likhitha/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/99likhitha/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/99likhitha/Leetcode_solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/99likhitha/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
