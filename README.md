@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/99likhitha/Leetcode_solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/99likhitha/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/99likhitha/Leetcode_solutions/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/99likhitha/Leetcode_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/99likhitha/Leetcode_solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/99likhitha/Leetcode_solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/99likhitha/Leetcode_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -282,12 +284,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/99likhitha/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/99likhitha/Leetcode_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/99likhitha/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/99likhitha/Leetcode_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/99likhitha/Leetcode_solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/99likhitha/Leetcode_solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/99likhitha/Leetcode_solutions/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/99likhitha/Leetcode_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/99likhitha/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
