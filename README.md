@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/99likhitha/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/99likhitha/Leetcode_solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/99likhitha/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/99likhitha/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/99likhitha/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/99likhitha/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0120-triangle](https://github.com/99likhitha/Leetcode_solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/99likhitha/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0474-ones-and-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0542-01-matrix) |
