@@ -14,7 +14,6 @@ public:
     }
     bool isHappy(int n) {
         unordered_set<int>S;
-        // int num=getsum(n);
         while(n!=1)
         {
             if(S.find(n) == S.end()) 
