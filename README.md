@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/99likhitha/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0326-power-of-three](https://github.com/99likhitha/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/99likhitha/Leetcode_solutions/tree/master/0342-power-of-four) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/99likhitha/Leetcode_solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/99likhitha/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/99likhitha/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/99likhitha/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/99likhitha/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0165-compare-version-numbers](https://github.com/99likhitha/Leetcode_solutions/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
