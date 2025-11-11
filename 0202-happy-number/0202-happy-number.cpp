@@ -13,15 +13,29 @@ public:
         return sum;
     }
     bool isHappy(int n) {
-
-        int slow=n,fast=getsum(n);
-        while(fast !=1 && slow !=fast)
+        unordered_set<int>S;
+        // int num=getsum(n);
+        while(n!=1)
         {
-            slow=getsum(slow);
-            fast=getsum(getsum(fast));
+            if(S.find(n) == S.end()) 
+            {
+                S.insert(n);
+                n=getsum(n);
+            }
+            else return false;
+
         }
 
-        return fast ==1;
+        return n==1;
+
+        // int slow=n,fast=getsum(n);
+        // while(fast !=1 && slow !=fast)
+        // {
+        //     slow=getsum(slow);
+        //     fast=getsum(getsum(fast));
+        // }
+
+        // return fast ==1;
         
     }
 };
