@@ -7,13 +7,13 @@ public:
         while(low<high)
         {
             int mid= low + (high-low)/2;
-            if(nums[mid]<nums[mid+1])
+            if(nums[mid] > nums[mid+1])
             {
-                low=mid+1;
+                high=mid;
             }
             else
             {
-                high=mid;
+                low=mid+1;
               
             }
         }
