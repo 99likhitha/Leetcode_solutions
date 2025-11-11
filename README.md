@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/99likhitha/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/99likhitha/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/99likhitha/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0474-ones-and-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/99likhitha/Leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0851-goat-latin](https://github.com/99likhitha/Leetcode_solutions/tree/master/0851-goat-latin) |
 | [1006-vowel-spellchecker](https://github.com/99likhitha/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/99likhitha/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0120-triangle](https://github.com/99likhitha/Leetcode_solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0474-ones-and-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/99likhitha/Leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0867-new-21-game) |
