@@ -23,7 +23,7 @@ public:
                 curr=gcd(curr,nums[j]);
                 if(curr==1)
                 {
-                    minlen=min(minlen,j-i+1+(n-1));
+                    minlen=min(minlen,j-i+ (n-1));
                     break;
                 }
             }
@@ -31,6 +31,6 @@ public:
 
         if(minlen == INT_MAX) return -1;
 
-        return minlen-1 ;
+        return minlen ;
     }
 };
