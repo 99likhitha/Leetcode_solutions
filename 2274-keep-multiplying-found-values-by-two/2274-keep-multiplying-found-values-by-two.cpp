@@ -1,19 +1,10 @@
 class Solution {
 public:
     int findFinalValue(vector<int>& nums, int original) {
-        set<int>S;
-        for(int num:nums)
+        unordered_set<int>S(nums.begin(),nums.end());
+        while(S.count(original))
         {
-            S.insert(num);
-        }
-
-        while(1)
-        {
-            if(S.find(original) == S.end()) return original;
-            else
-            {
-                original*=2;
-            }
+            original*=2;
         }
 
         return original;
