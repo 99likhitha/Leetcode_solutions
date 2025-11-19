@@ -1,14 +1,21 @@
 class Solution {
 public:
     int findFinalValue(vector<int>& nums, int original) {
-        unsigned seen=0;
-        for(int x: nums){
-            auto [q, r]=div(x, original);
-            if (r==0 && popcount((unsigned)q)==1){
-                seen|=q; 
+        set<int>S;
+        for(int num:nums)
+        {
+            S.insert(num);
+        }
+
+        while(1)
+        {
+            if(S.find(original) == S.end()) return original;
+            else
+            {
+                original*=2;
             }
         }
-    //    cout<<seen<<endl;
-        return original*(1<<countr_one(seen));
+
+        return original;
     }
 };
