@@ -1,23 +1,16 @@
 class Solution {
 public:
     bool kLengthApart(vector<int>& nums, int k) {
-
-        int n = nums.size();
-        int pre_index;
-        bool f = true;
-
-        for (int i = 0; i < n; i++) {
-            if (f && nums[i] == 1) {
-                f = false;
-                pre_index = i;
-                continue;
+        int n=nums.size();
+        unordered_map<int,int>mp;
+        for(int i=0;i<n;i++)
+        {
+            if(nums[i]==1 && mp.find(nums[i]) != mp.end())
+            {
+               int index=mp[nums[i]];
+               if(abs(i-index) <= k) return false;
             }
-            if (nums[i] == 1) {
-                if (i - pre_index - 1 >= k)
-                    pre_index = i;
-                else
-                    return false;
-            }
+            mp[nums[i]]=i; 
         }
 
         return true;
