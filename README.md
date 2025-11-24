@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/99likhitha/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
 | [1006-vowel-spellchecker](https://github.com/99likhitha/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/99likhitha/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/99likhitha/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/99likhitha/Leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/99likhitha/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/99likhitha/Leetcode_solutions/tree/master/0342-power-of-four) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/99likhitha/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/99likhitha/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/99likhitha/Leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/99likhitha/Leetcode_solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
