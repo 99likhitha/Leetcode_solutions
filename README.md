@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/99likhitha/Leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/99likhitha/Leetcode_solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/99likhitha/Leetcode_solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/99likhitha/Leetcode_solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/99likhitha/Leetcode_solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
 | ------- |
