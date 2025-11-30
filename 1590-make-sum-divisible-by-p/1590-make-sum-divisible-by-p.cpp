@@ -4,7 +4,7 @@ const int MOD=1e9;
     int minSubarray(vector<int>& nums, int p) {
         long long total = 0;
         for (int x : nums) total += x;
-        if(total < p) return -1;
+        // if(total < p) return -1;
         int k = total % p;
         if (k == 0) return 0;
 
