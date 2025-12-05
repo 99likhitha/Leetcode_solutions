@@ -11,8 +11,8 @@
  */
 class Solution {
 public:
-void dfs(TreeNode* node,vector<string>&ans,string path)
-{   
+void dfs(TreeNode*node , vector<string>&ans, string path)
+{
     if(node==NULL) return;
 
     if(!path.empty()) path+="->";
@@ -26,14 +26,11 @@ void dfs(TreeNode* node,vector<string>&ans,string path)
 
     dfs(node->left,ans,path);
     dfs(node->right,ans,path);
-
 }
-vector<string> binaryTreePaths(TreeNode* root) {
+    vector<string> binaryTreePaths(TreeNode* root) {
         vector<string>ans;
         string path="";
         dfs(root,ans,path);
         return ans;
-
-
     }
 };
