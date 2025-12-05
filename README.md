@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/99likhitha/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/99likhitha/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/99likhitha/Leetcode_solutions/tree/master/0127-word-ladder) |
+| [0161-one-edit-distance](https://github.com/99likhitha/Leetcode_solutions/tree/master/0161-one-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/99likhitha/Leetcode_solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/99likhitha/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/99likhitha/Leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0161-one-edit-distance](https://github.com/99likhitha/Leetcode_solutions/tree/master/0161-one-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/99likhitha/Leetcode_solutions/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0283-move-zeroes) |
