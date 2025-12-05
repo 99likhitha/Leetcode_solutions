@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/99likhitha/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/99likhitha/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/99likhitha/Leetcode_solutions/tree/master/0721-accounts-merge) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/99likhitha/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0093-restore-ip-addresses](https://github.com/99likhitha/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/99likhitha/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0679-24-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/99likhitha/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/99likhitha/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/99likhitha/Leetcode_solutions/tree/master/0547-number-of-provinces) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/99likhitha/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -757,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/99likhitha/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
