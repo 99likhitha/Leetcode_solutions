@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/99likhitha/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/99likhitha/Leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/99likhitha/Leetcode_solutions/tree/master/0721-accounts-merge) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/99likhitha/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/99likhitha/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
