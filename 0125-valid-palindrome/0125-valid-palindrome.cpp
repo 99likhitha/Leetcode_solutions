@@ -11,7 +11,6 @@ public:
             }
         }
 
-        // cout<<pal<<endl;
         string rev=pal;
         reverse(pal.begin(),pal.end());
         return (rev==pal);
