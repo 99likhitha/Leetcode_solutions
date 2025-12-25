@@ -1,18 +1,20 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int n=s.size();
-        string pal="";
-        for(int i=0;i<n;i++)
+        int n=s.length();
+        int i=0,j=n-1;
+        while(i<j)
         {
-            if(s[i]!=' ' && isalnum(s[i]))
+            if(isalnum(s[i]) && isalnum(s[j])  && tolower(s[i])== tolower(s[j]) )
             {
-                pal+= tolower(s[i]);
+                i++;
+                j--;
             }
+            else if(!isalnum(s[i])) i++;
+            else if(!isalnum(s[j])) j--;
+            else return false;
         }
+        return true;
 
-        string rev=pal;
-        reverse(pal.begin(),pal.end());
-        return (rev==pal);
     }
 };
