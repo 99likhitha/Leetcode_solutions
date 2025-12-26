@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/99likhitha/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/99likhitha/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0408-valid-word-abbreviation](https://github.com/99likhitha/Leetcode_solutions/tree/master/0408-valid-word-abbreviation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/99likhitha/Leetcode_solutions/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0408-valid-word-abbreviation](https://github.com/99likhitha/Leetcode_solutions/tree/master/0408-valid-word-abbreviation) |
 | [0611-valid-triangle-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
