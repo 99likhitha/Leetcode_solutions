@@ -12,24 +12,19 @@ public:
     }
     string reverseVowels(string s) {
         int n=s.length();
-        string vowels="";
-        for(char c:s)
+        int i=0,j=n-1;
+        while(i<j)
         {
-            if(isvowel(c))
+            while(i<n && !isvowel(s[i])) i++;
+            while(j>=0 && !isvowel(s[j])) j--;
+            if(isvowel(s[i]) && isvowel(s[j]) && i<j)
             {
-                vowels+=c;
+                swap(s[i],s[j]);
+                cout<<s[i]<<","<<s[j]<<endl;
+                i++;
+                j--;
             }
         }
-        int i=vowels.length()-1;
-        for(int j=0;j<s.length();j++)
-        {
-            if(isvowel(s[j]))
-            {
-                s[j]=vowels[i];
-                i--;
-            }
-        }
-
         return s;
     }
 };
