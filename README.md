@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/99likhitha/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/99likhitha/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/99likhitha/Leetcode_solutions/tree/master/0342-power-of-four) |
 ## Array
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/99likhitha/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Database
 |  |
