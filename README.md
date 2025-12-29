@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/99likhitha/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/99likhitha/Leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/99likhitha/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/99likhitha/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/99likhitha/Leetcode_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/99likhitha/Leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/99likhitha/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/99likhitha/Leetcode_solutions/tree/master/2211-count-collisions-on-a-road) |
