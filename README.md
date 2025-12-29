@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/99likhitha/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/99likhitha/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/99likhitha/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/99likhitha/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/99likhitha/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/99likhitha/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/99likhitha/Leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/99likhitha/Leetcode_solutions/tree/master/0759-set-intersection-size-at-least-two) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/99likhitha/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/99likhitha/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/99likhitha/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/99likhitha/Leetcode_solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/99likhitha/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
@@ -735,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/99likhitha/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/99likhitha/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -917,8 +922,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/99likhitha/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/99likhitha/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/99likhitha/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
