@@ -2,43 +2,41 @@ class Solution {
 public:
     int calculate(string s) {
         int n=s.size();
-        int num=0,result=0,lastterm=0;
+        int num=0,result=0,lasterm=0;
         char op='+';
         for(int i=0;i<n;i++)
         {
-            char c=s[i];
-            if(isdigit(c))
+            if(isdigit(s[i]))
             {
-                num=num*10+ (c-'0');
+                num=num*10+(s[i]-'0');
             }
-            if(!isdigit(c) && c!=' ' || i==s.size()-1)
+            if(  (!isdigit(s[i])  && s[i] !=' ' )|| i==s.size()-1)
             {
                 if(op=='+')
                 {
-                    result+=lastterm;
-                    lastterm = num;
+                    result+=lasterm;
+                    lasterm=num;
                 }
                 else if(op=='-')
                 {
-                   result+=lastterm;
-                    lastterm = -num;
+                    result+=lasterm;
+                    lasterm=-num;
                 }
                 else if(op=='*')
                 {
-                   lastterm *= num;
+                    lasterm*=num;
                 }
                 else if(op=='/')
                 {
-                    lastterm /= num;
+                    lasterm /= num;
                 }
-
-                op=c;
+                op=s[i];
                 num=0;
+                
             }
-
+            
         }
-
-        result+=lastterm;
+        result+=lasterm;
         return result;
     }
 };
