@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/99likhitha/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/99likhitha/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/99likhitha/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/99likhitha/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/99likhitha/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0407-trapping-rain-water-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/99likhitha/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0542-01-matrix) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/99likhitha/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/99likhitha/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0611-valid-triangle-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/99likhitha/Leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/99likhitha/Leetcode_solutions/tree/master/0759-set-intersection-size-at-least-two) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/99likhitha/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/99likhitha/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -832,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/99likhitha/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -872,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/99likhitha/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
