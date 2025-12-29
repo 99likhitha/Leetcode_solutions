@@ -11,10 +11,10 @@ public:
        
         for(int i=k;i<n;i++)
         {
-            if(nums[i]>pq.top())
+            pq.push(nums[i]);
+            if(pq.size()>k)
             {
                 pq.pop();
-                pq.push(nums[i]);
             }
         }
 
