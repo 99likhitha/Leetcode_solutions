@@ -36,7 +36,6 @@ public:
                 }
                 
             }
-            // reverse(temp.begin(),temp.end());
             ans.push_back(temp.back());
         }
 
