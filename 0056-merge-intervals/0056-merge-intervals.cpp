@@ -21,8 +21,6 @@ public:
                 ans.push_back(intervals[i]);
             }
         }
-
-
-     return ans;
+        return ans;
     }
 };
