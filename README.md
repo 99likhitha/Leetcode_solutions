@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/99likhitha/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/99likhitha/Leetcode_solutions/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/99likhitha/Leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/99likhitha/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/99likhitha/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/99likhitha/Leetcode_solutions/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/99likhitha/Leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/99likhitha/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [0905-sort-array-by-parity](https://github.com/99likhitha/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/99likhitha/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/99likhitha/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/99likhitha/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/99likhitha/Leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/99likhitha/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/99likhitha/Leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/99likhitha/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/99likhitha/Leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/99likhitha/Leetcode_solutions/tree/master/0840-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/99likhitha/Leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
