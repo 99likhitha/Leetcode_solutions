@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/99likhitha/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/99likhitha/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/99likhitha/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2023-design-movie-rental-system](https://github.com/99likhitha/Leetcode_solutions/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/99likhitha/Leetcode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/99likhitha/Leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/99likhitha/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/99likhitha/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/99likhitha/Leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/99likhitha/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/99likhitha/Leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/99likhitha/Leetcode_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/99likhitha/Leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/99likhitha/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/99likhitha/Leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/99likhitha/Leetcode_solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/99likhitha/Leetcode_solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/99likhitha/Leetcode_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/99likhitha/Leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/99likhitha/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/99likhitha/Leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/99likhitha/Leetcode_solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/99likhitha/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/99likhitha/Leetcode_solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/99likhitha/Leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/99likhitha/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/99likhitha/Leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
@@ -799,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/99likhitha/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/99likhitha/Leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/99likhitha/Leetcode_solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/99likhitha/Leetcode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/99likhitha/Leetcode_solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/99likhitha/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
