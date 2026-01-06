@@ -16,15 +16,15 @@ public:
                 }
                 minele=min(minele,abs(matrix[i][j]));
                 sum+=abs(matrix[i][j]);
-                if(matrix[i][j]==0) iszero=true;
+                // if(matrix[i][j]==0) iszero=true;
             }
         }
 
         if(count%2==0) return sum;
-        else 
-        {
-            if(iszero) return sum;
-        }
+        // else 
+        // {
+        //     if(iszero) return sum;
+        // }
         return sum-(2*minele);
 
     }
