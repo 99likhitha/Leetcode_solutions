@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/99likhitha/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/99likhitha/Leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/99likhitha/Leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0824-goat-latin](https://github.com/99likhitha/Leetcode_solutions/tree/master/0824-goat-latin) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/99likhitha/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0474-ones-and-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0542-01-matrix) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/99likhitha/Leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/99likhitha/Leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
