@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/99likhitha/Leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1762-buildings-with-an-ocean-view](https://github.com/99likhitha/Leetcode_solutions/tree/master/1762-buildings-with-an-ocean-view) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/99likhitha/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/99likhitha/Leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/99likhitha/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/99likhitha/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/99likhitha/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/99likhitha/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/99likhitha/Leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/99likhitha/Leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/99likhitha/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/99likhitha/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/99likhitha/Leetcode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/99likhitha/Leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
@@ -892,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/99likhitha/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/99likhitha/Leetcode_solutions/tree/master/0986-interval-list-intersections) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/99likhitha/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/99likhitha/Leetcode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Shortest Path
