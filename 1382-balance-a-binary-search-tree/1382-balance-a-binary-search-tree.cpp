@@ -6,50 +6,40 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right)
- *         : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 class Solution {
 public:
-    /**
-     * Main function to balance the BST.
-     */
+    vector<int>inord;
+   void Inorder(TreeNode*root)
+    {
+        if(root==NULL) return ;
+        Inorder(root->left);
+        inord.push_back(root->val);
+        Inorder(root->right);
+        
+    }
+
+    TreeNode*ConstructBSTInorder(vector<int>&intraversal,int low,int high)
+    {
+
+        if(low>high) return NULL;
+        int n=intraversal.size();
+        int mid = low + (high-low)/2;
+        TreeNode*root=new TreeNode(intraversal[mid]);
+        root->left=ConstructBSTInorder(intraversal,low,mid-1);
+        root->right=ConstructBSTInorder(intraversal,mid+1,high);
+
+        return root;
+
+    }
+
     TreeNode* balanceBST(TreeNode* root) {
-        vector<int> sortedValues;
+        if(root == NULL) return NULL;
+        Inorder(root);
+        int n=inord.size();
+        return ConstructBSTInorder(inord,0,n-1);
 
-        // Step 1: Flatten the tree into a sorted vector
-        extractInorder(root, sortedValues);
-
-        // Step 2: Build a new balanced tree from the sorted values
-        return buildBalancedTree(sortedValues, 0, sortedValues.size() - 1);
-    }
-
-private:
-    /**
-     * Traverses the tree in-order to collect values in sorted sequence.
-     */
-    void extractInorder(TreeNode* node, vector<int>& sortedValues) {
-        if (!node) return;
-
-        extractInorder(node->left, sortedValues);
-        sortedValues.push_back(node->val);
-        extractInorder(node->right, sortedValues);
-    }
-
-    /**
-     * Recursively builds a balanced BST using the middle element as the root.
-     */
-    TreeNode* buildBalancedTree(const vector<int>& values, int start, int end) {
-        if (start > end) return nullptr;
-
-        int mid = start + (end - start) / 2;
-        TreeNode* newNode = new TreeNode(values[mid]);
-
-        newNode->left = buildBalancedTree(values, start, mid - 1);
-        newNode->right = buildBalancedTree(values, mid + 1, end);
-
-        return newNode;
     }
 };
