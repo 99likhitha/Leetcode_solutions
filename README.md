@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/99likhitha/Leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/99likhitha/Leetcode_solutions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/99likhitha/Leetcode_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
