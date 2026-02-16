@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/99likhitha/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/99likhitha/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/99likhitha/Leetcode_solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/99likhitha/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/99likhitha/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/99likhitha/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/0202-happy-number) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/99likhitha/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/99likhitha/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/99likhitha/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/99likhitha/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/99likhitha/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/99likhitha/Leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/99likhitha/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/99likhitha/Leetcode_solutions/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/99likhitha/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/99likhitha/Leetcode_solutions/tree/master/0125-valid-palindrome) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/99likhitha/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/99likhitha/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/99likhitha/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/99likhitha/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
