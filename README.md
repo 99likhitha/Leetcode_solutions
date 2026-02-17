@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/99likhitha/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/99likhitha/Leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/99likhitha/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/99likhitha/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -1068,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/99likhitha/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/99likhitha/Leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/99likhitha/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/99likhitha/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
