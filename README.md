@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/99likhitha/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/99likhitha/Leetcode_solutions/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/99likhitha/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/99likhitha/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/99likhitha/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/99likhitha/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0093-restore-ip-addresses](https://github.com/99likhitha/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/99likhitha/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/99likhitha/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/99likhitha/Leetcode_solutions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/99likhitha/Leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
