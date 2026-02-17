@@ -1,11 +1,13 @@
 class Solution {
 public:
     uint32_t reverseBits(uint32_t n) {
-        uint32_t ans = 0;
-        for (int i = 0; i < 32 && n; ++i) {
-            ans |= (n & 1) << (31 - i);
-            n >>= 1;
+        uint32_t reverse=0,power=31;
+        while(n!=0)
+        {
+            reverse+=(n&1) <<power;
+            n=n>>1;
+            power--;
         }
-        return ans;
+        return reverse;
     }
 };
