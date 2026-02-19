@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/99likhitha/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/99likhitha/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/99likhitha/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/99likhitha/Leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/99likhitha/Leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -942,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/99likhitha/Leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/99likhitha/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/99likhitha/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/99likhitha/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/99likhitha/Leetcode_solutions/tree/master/0986-interval-list-intersections) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
