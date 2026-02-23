@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/99likhitha/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/99likhitha/Leetcode_solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/99likhitha/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/99likhitha/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/99likhitha/Leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/99likhitha/Leetcode_solutions/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/99likhitha/Leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/99likhitha/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/99likhitha/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/99likhitha/Leetcode_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/99likhitha/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/99likhitha/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/99likhitha/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/99likhitha/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/99likhitha/Leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/99likhitha/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/99likhitha/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -1110,4 +1113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/99likhitha/Leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
