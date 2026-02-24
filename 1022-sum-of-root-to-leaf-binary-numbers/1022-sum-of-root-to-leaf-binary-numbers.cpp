@@ -10,23 +10,22 @@
  * };
  */
 class Solution {
-
-private:
-    void getSum(TreeNode* node, int curNum, int&sum){
-        if(!node){return;}
-        curNum = curNum*2 + node->val;
-        if(!node->left && !node->right){
-            sum+=curNum;
-            return;
-        }
-        getSum(node->left,curNum,sum);
-        getSum(node->right,curNum,sum);
-    }
-
 public:
+    void getsum(TreeNode*node,int currNum, int &sum)
+    {
+        if(!node) return;
+        currNum=currNum*2 + node->val;
+        if(!node->left && !node->right)
+        {
+             sum+=currNum;
+        }    
+        getsum(node->left,currNum,sum);
+        getsum(node->right,currNum,sum);
+    }
     int sumRootToLeaf(TreeNode* root) {
-        int sum = 0;
-        getSum(root,0,sum);
+        if(!root) return 0;
+        int sum=0;
+        getsum(root,0,sum);
         return sum;
     }
 };
