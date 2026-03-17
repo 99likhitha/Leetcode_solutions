@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/99likhitha/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/99likhitha/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/99likhitha/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/99likhitha/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/99likhitha/Leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1762-buildings-with-an-ocean-view](https://github.com/99likhitha/Leetcode_solutions/tree/master/1762-buildings-with-an-ocean-view) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/99likhitha/Leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/99likhitha/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/99likhitha/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/99likhitha/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/99likhitha/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/99likhitha/Leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/99likhitha/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/99likhitha/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/99likhitha/Leetcode_solutions/tree/master/1753-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/99likhitha/Leetcode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/99likhitha/Leetcode_solutions/tree/master/1895-largest-magic-square) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/99likhitha/Leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/99likhitha/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/99likhitha/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/99likhitha/Leetcode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/99likhitha/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/99likhitha/Leetcode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
