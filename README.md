@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/99likhitha/Leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/99likhitha/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/99likhitha/Leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/99likhitha/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/99likhitha/Leetcode_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/99likhitha/Leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/99likhitha/Leetcode_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/99likhitha/Leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/99likhitha/Leetcode_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/99likhitha/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/99likhitha/Leetcode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/99likhitha/Leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/99likhitha/Leetcode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/99likhitha/Leetcode_solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/99likhitha/Leetcode_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
