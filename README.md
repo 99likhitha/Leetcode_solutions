@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/99likhitha/Leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/99likhitha/Leetcode_solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/0761-special-binary-string) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0824-goat-latin](https://github.com/99likhitha/Leetcode_solutions/tree/master/0824-goat-latin) |
 | [0851-goat-latin](https://github.com/99likhitha/Leetcode_solutions/tree/master/0851-goat-latin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/99likhitha/Leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1075,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/99likhitha/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/99likhitha/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/99likhitha/Leetcode_solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0905-sort-array-by-parity](https://github.com/99likhitha/Leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/99likhitha/Leetcode_solutions/tree/master/0986-interval-list-intersections) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/99likhitha/Leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
