@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/99likhitha/Leetcode_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/99likhitha/Leetcode_solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3875-construct-uniform-parity-array-i](https://github.com/99likhitha/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/99likhitha/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/99likhitha/Leetcode_solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/99likhitha/Leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/99likhitha/Leetcode_solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3903-smallest-stable-index-i](https://github.com/99likhitha/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
